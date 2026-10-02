@@ -58,15 +58,13 @@ A lightweight, high-performance Minecraft Paper/Spigot plugin that allows server
 
 # Plugin messages (Supports standard '&' color codes)
 messages:
-  no-permission: "&cYou don't have permission to do this!"
-  usage: "&7Usage: &f/customhity <set/reload>"
-  multiplier-set: "&aDamage multiplier set to &e%multiplier%"
-  reload: "&aConfiguration reloaded successfully!"
-  only-player: "&cThis command can only be executed by players!"
+  no-permission: "&cNie masz permisji!"
+  usage: "&7Użycie: &f/customhity <set/reload>"
+  multiplier-set: "&aUstawiono mnożnik obrażeń na &e%multiplier%"
+  reload: "&aConfig został przeładowany!"
+  only-player: "&cTa komenda jest tylko dla graczy!"
 
-# Main settings
 settings:
-  # Base damage multiplier (1.0 = default vanilla damage, 1.5 = 150% damage, 2.0 = double damage)
   damage-multiplier: 1.0
 ```
 
