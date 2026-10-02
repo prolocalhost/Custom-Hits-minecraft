@@ -1,0 +1,9 @@
+messages:
+  no-permission: "&cNie masz permisji!"
+  usage: "&7Użycie: &f/customhity <set/reload>"
+  multiplier-set: "&aUstawiono mnożnik obrażeń na &e%multiplier%"
+  reload: "&aConfig został przeładowany!"
+  only-player: "&cTa komenda jest tylko dla graczy!"
+
+settings:
+  damage-multiplier: 1.0
